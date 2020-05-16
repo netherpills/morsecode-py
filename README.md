@@ -1,8 +1,6 @@
 # morsecode-py
 Package for Python made by me.
 
-This is my first attempt at doing a Python Package so don't expect too much.
-
 # Documentation
 This package translates from text to morse code and viceversa.
 Here's a basic example:
